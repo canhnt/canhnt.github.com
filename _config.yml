@@ -1,0 +1,18 @@
+title: Canh Ngo
+email: 
+description: A personal blog on Technology, Cloud and Software Development
+author: Canh Ngo
+url:               "http://canhnt.github.io"
+baseurl:           ""
+
+# Social Profiles
+twitter_username:  canhnt
+github_username:   canhnt
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
